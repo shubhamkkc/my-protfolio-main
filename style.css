@@ -16,7 +16,7 @@ body{
 }
 .topnav:hover{
     
-    color: gold;
+    color: rgb(41, 61, 126);
 }
 .topnav div{
     font-weight: bold;
@@ -35,7 +35,7 @@ body{
 }
 .topnav a:hover{
     background-color: white;
-    color: gold;
+    color: rgb(4, 0, 255);
 }
 .topnav a:active{
     
@@ -107,9 +107,9 @@ footer .links{
     color: white;
     text-decoration: none;
 }
-footer .links:hover{
+footer .links:{
     background-color: white;
-    color: gold;
+    color: rgb(17, 0, 255);
 }
 /* projects block  */
 body{
@@ -204,7 +204,7 @@ h1{
 }
 .olist a:hover{
     background-color: white;
-    color: gold;
+    color: rgb(0, 102, 255);
 }
 .container-content1{
     text-align: center;
@@ -232,7 +232,7 @@ h1{
 }
 .read:hover{
     background-color: white;
-    color: gold;
+    color: rgb(0, 38, 255);
 }
 
 .list-non-bullet{
