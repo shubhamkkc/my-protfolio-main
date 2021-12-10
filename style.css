@@ -1,0 +1,225 @@
+body{
+    font-family: 'Montserrat', sans-serif;
+    /* width:80%; */
+    justify-content: center;
+}
+.navline{ 
+    text-align: right;
+    list-style: none;
+}
+/* designing nav bar  */
+.topnav{
+    background-color: #f2f2f2;
+    border-radius: 2rem;
+    padding: 0.7rem;
+}
+.topnav div{
+    font-weight: bold;
+    font-size: 30px;
+    color: black; 
+}
+.navline li{
+        display: inline-block;
+}
+.topnav a{
+    color: black;
+    padding: 1px 10px;
+    text-decoration: none;
+    font-size: 20px;
+    font-weight: 100px;
+}
+.topnav a:hover{
+    color: black;
+}
+.topnav a:active{
+    
+    font-weight: bold;
+    color: black;
+    
+}
+/* putting image  */
+img{
+    display: block;
+    margin: auto;
+    width: 500px;
+    border-radius:4px solid;
+    width:100%;
+}
+.link{
+    text-decoration: none;
+    padding: 0.5rem 1rem;
+    color: white;
+    
+}
+h2{
+    text-align: center;
+    padding: 0.5rem;
+    font-size: 5vw;
+}
+p{
+    text-align: center;
+    padding: 0.5rem;
+}
+.section .tech {
+    border-radius: 2rem;
+    background-color:#D1D5DB;
+    margin: 1rem;
+}
+.section .project{
+    text-align: center;
+    border-radius: 2rem;
+    background-color: #F3F4F6;
+    margin: 1rem;
+    padding: 1.5rem;
+}
+.section .blog {
+    text-align: center;
+    border-radius: 2rem;
+    background-color:#D1D5DB;
+    margin: 1rem;
+    padding: 1.5rem;
+}
+
+/* footer */
+footer{ 
+    text-align: center;
+    padding-inline-start: 0px;
+    background-color: #F59E0B;
+    padding: 0.5rem;
+    margin-top: 2rem;
+    border-radius: 2rem;
+    color: white;
+}
+.social li{
+    color: white;
+    list-style: none;
+    display: inline-block;
+    padding: 0.5rem;
+}
+footer .links{ 
+    font-size: 3vw;
+    color: white;
+    text-decoration: none;
+}
+/* projects block  */
+body{
+    font-family: 'Montserrat', sans-serif;
+}
+h1{
+    font-size: 40px;
+    text-align: center;
+    padding: 4rem;
+}
+.olist{
+    list-style: none;
+    text-align: center;
+    margin:auto;
+    padding: 1rem;
+}
+.olist .ulist1 {
+    background-color: #F3F4F6;
+    border-radius: 2rem;
+    padding: 0.8rem;
+    margin: 1rem;
+}
+.olist .ulist2 {
+    background-color: #D1D5DB;
+    border-radius: 2rem;
+    padding: 0.8rem;
+    margin: 1rem;
+}
+.olist .ulist3 {
+    background-color: #F3F4F6;
+    border-radius: 2rem;
+    padding: 0.8rem;
+    margin: 1rem;
+}
+.olist .ulist4 {
+    background-color: #D1D5DB;
+    border-radius: 2rem;
+    padding: 0.8rem;
+    margin: 1rem;
+}
+.olist .ulist5 {
+    background-color: #F3F4F6;
+    border-radius: 2rem;
+    padding: 0.8rem;
+    margin: 1rem;
+}
+.olist .ulist6 {
+    background-color: #D1D5DB; 
+    border-radius: 2rem;
+    padding: 0.8rem;
+    margin: 1rem;
+}
+.olist .ulist7 {
+    background-color: #F3F4F6;
+    border-radius: 2rem;
+    padding: 0.8rem;
+    margin: 1rem;
+}
+.olist .ulist8 {
+    background-color: #D1D5DB; 
+    border-radius: 2rem;
+    padding: 0.8rem;
+    margin: 1rem;
+}
+.olist .ulist9 {
+    background-color: #F3F4F6;
+    border-radius: 2rem;
+    padding: 0.8rem;
+    margin: 1rem;
+}
+.olist .ulist10 {
+    background-color: #D1D5DB; 
+    border-radius: 2rem;
+    padding: 0.8rem;
+    margin: 1rem;
+}
+.olist .ulist11 {
+    background-color: #F3F4F6;
+    border-radius: 2rem;
+    padding: 0.8rem;
+    margin: 1rem;
+}
+
+.olist a{
+    background-color: #F59E0B;
+    color: white;
+    padding: 0.5rem;
+    border-radius: 1rem;
+    text-decoration: none;
+}
+
+.container-content1{
+    text-align: center;
+    background-color: #D1D5DB;
+    border-radius: 1rem;
+    padding: 1rem;
+    margin: 0rem 2rem 2rem 0rem;
+}
+.container-content2{
+    text-align: center;
+    background-color: #F3F4F6;
+    border-radius: 1rem;
+    padding: 1rem;
+    margin-right: 2rem ;
+}
+.read{
+    background-color: #F59E0B;
+    color: white;
+    text-decoration: none;
+    font-size: 20px;
+    padding: 0.5rem;
+    border-radius: 1rem;
+    border-color: 2px solid #F59E0B;
+    outline: #F59E0B;
+}
+
+.list-non-bullet{
+    list-style: none;
+}
+.contents{
+    font-size: 20px;
+    justify-content: right;
+}
