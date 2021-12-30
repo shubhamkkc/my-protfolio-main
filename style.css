@@ -194,6 +194,24 @@ h1{
     padding: 0.8rem;
     margin: 1rem;
 }
+.olist .ulist12 {
+    background-color: #D1D5DB; 
+    border-radius: 2rem;
+    padding: 0.8rem;
+    margin: 1rem;
+}
+.olist .ulist13 {
+    background-color: #F3F4F6;
+    border-radius: 2rem;
+    padding: 0.8rem;
+    margin: 1rem;
+}
+.olist .ulist14 {
+    background-color: #D1D5DB; 
+    border-radius: 2rem;
+    padding: 0.8rem;
+    margin: 1rem;
+}
 
 .olist a{
     background-color: black;
